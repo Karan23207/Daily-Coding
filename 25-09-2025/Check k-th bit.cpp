@@ -1,4 +1,4 @@
-// GFG PROBLEM
+// Leetcode Problem-231 and GFG 
 
 class Solution {
   public:
